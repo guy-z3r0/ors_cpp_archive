@@ -23,18 +23,14 @@ const LL INF = 2e18;
 #define Lower(a) transform(a.begin(), a.end(), a.begin(), ::tolower)
 #define Upper(a) transform(a.begin(), a.end(), a.begin(), ::toupper)
 
-void solve() {
-
-}
-
 int main() {
     FastRead;
 
     int t;
     cin >> t;
 
-    while (t--) {
-        solve();
+    for (int i = 0; i < t; i++) {
+
     }
 
 
